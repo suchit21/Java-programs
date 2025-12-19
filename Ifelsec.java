@@ -22,5 +22,9 @@ public class Ifelsec {
      }
      
 	}
+// output = FIZZ
+           // BUZZ
+		//FIZZBUZZ
+
 
 
