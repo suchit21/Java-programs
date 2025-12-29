@@ -48,4 +48,17 @@ class Player {
         p11.display();
     }
 }
+// output:
+//45,Rohit Sharma,8,MI
+//33,Hardik Pandya,53,MI
+//93,Jasprit Bumrah,145,MI
+//11,Ishan Kishan,0,MI
+//63,Suryakumar Yadav,0,MI
+//23,Tilak Varma,2,MI
+//17,Cameron Green,12,MI
+//99,Akash Madhwal,15,MI
+//27,Piyush Chawla,156,MI
+//4,Tim David,0,MI
+//9,Arjun Tendulkar,3,MI
+
 
